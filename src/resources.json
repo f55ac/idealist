@@ -1,0 +1,47 @@
+{
+    {
+        "name":"KhanAcademy",
+        "url":"https://www.khanacademy.org",
+        "description":"Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere. Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more."
+    },
+    {
+        "name":"Wikipedia",
+        "url":"https://wikipedia.org",
+        "description":"The free encyclopedia"
+    },
+    {
+        "name":"edX",
+        "url":"https://edx.org/search?tab=course",
+        "description":"Demonstrating your knowledge is a critical part of learning. edX courses and programs provide a space to practice with quizzes, open response assessments, virtual environments, and more. Apply Learning on edX transforms how you think and what you can do, and translates directly into the real world"
+    },
+    {
+        "name":"Coursera Free Catalog",
+        "url":"https://www.coursera.org/courses?query=free",
+        "description":"Coursera"
+    },
+    {
+        "name":"MIT OpenCourseware",
+        "url":"https://ocw.mit.edu/search/",
+        "description":"MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses, freely sharing knowledge with learners and educators around the world."
+    },
+    {
+        "name":"YouTube Learning",
+        "url":"https://www.youtube.com/channel/UCtFRv9O2AHqOZjjynzrv-xg",
+        "description":"Learn at home with YouTube"
+    },
+    {
+        "name":"TedEd",
+        "url":"https://ed.ted.com/",
+        "description":"TED-Ed celebrates the ideas of teachers and students around the world. Discover hundreds of animated lessons, create customized lessons, and share your big ideas."
+    },
+    {
+        "name":"SchoolYourself",
+        "url":"https://schoolyourself.org/",
+        "description":"Interactive online math videos, lessons, and tutoring. Algebra, geometry, trigonometry, precalculus, and calculus!"
+    },
+    {
+        "name":"Canvas Network",
+        "url":"https://www.canvas.net/",
+        "description":"The Canvas Network offers free online courses and classes from the world's leading universities. Find a MOOC and enroll now to get started on your new journey!"
+    }
+}

@@ -1,0 +1,4 @@
+.pagination-bar {
+    display: flex;
+    gap: 10px;
+}
